@@ -5,23 +5,23 @@ function App(){
         isCompleted: false,
       },
       {
-        text: 'meet friend for lunch',
+        text: 'hockey',
         isCompleted: false,
       },
       {
-        text: 'build todo app',
+        text: 'eat',
         isCompleted: false,
       }, 
       {
-        text: 'finish mudding the dining room',
+        text: 'hockey',
         isCompleted: false,
       },
       {
-        text: 'stain the beams in the great room',
+        text: 'upload todo list',
         isCompleted: false,
       },
       {
-        text: 'feed the sourdough starter',
+        text: 'hockey',
         isCompleted: false
       }       
     ]);
